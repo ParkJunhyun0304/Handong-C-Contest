@@ -355,7 +355,7 @@ e.g.
 
    > **Login is only possible using an @handong.edu or @handong.ac.kr Google account. Other Google accounts cannot be used.**
 
-   <br><img width="1507" height="826" alt="Image" src="https://github.com/user-attachments/assets/3f848dfc-f228-458b-9d72-90bcc34b25af" />
+   <br><img width="1507" height="826" alt="Image" src="https://github.com/user-attachments/assets/150b72d9-70fb-45ca-8fd0-d836ba642317" />
 
    > **After completing registration, enter your basic information. You will be asked to fill in your Name, Student ID, and select your Department from the dropdown menu (in order from top to bottom).**
 
